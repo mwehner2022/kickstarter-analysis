@@ -3,7 +3,8 @@
 ## Overview of Project
 
 ### Purpose
-Louise, a fictional playwright, completed her fundraising goal. The purpose of this analysis was to help her understand the results of different campaigns in relation to their launch date and their funding goals. To do this, data was collected and manipulated within excel and visualizations were generated to help understand the results.
+Louise, a fictional playwright, completed her fundraising goal. The purpose of this analysis was to help her understand the results of different campaigns in relation to their launch date and their funding goals. To do this, data was collected and manipulated within excel and visualizations were generated to help understand the results. 
+![link to excel zip](KickStarter_Challenge.xlsx.zip)
 
 ## Analysis and Challenges
 
